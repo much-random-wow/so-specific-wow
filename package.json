@@ -1,0 +1,26 @@
+{
+  "name": "so-specific-wow",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/much-random-wow/so-specific-wow.git"
+  },
+  "author": "D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/much-random-wow/so-specific-wow/issues"
+  },
+  "homepage": "https://github.com/much-random-wow/so-specific-wow#readme",
+  "dependencies": {
+    "superagent": "^2.0.0",
+    "underscore": "^1.8.3"
+  }
+}
