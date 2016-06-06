@@ -6,3 +6,4 @@ Very wow
 3. done
 4. monday already
 5. driver failed
+6. install the nepem
