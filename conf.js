@@ -8,6 +8,6 @@ exports.config = {
         browser.driver.manage().window().maximize();
     },
     capabilities: {
-        browserName: "chrome",
+        browserName: "/usr/bin/google-chrome",
     }
 };
